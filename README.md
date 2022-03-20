@@ -18,7 +18,8 @@ For The King James Bible, the source was
 
 Currently files are displayed using
 [markdeep](https://casual-effects.com/markdeep/) as I have zero background in
-making text look good in online displays, and markdeep apparently works.
+making text look good in online displays, and markdeep apparently works. Files
+are displayed through GitHub Pages, which I barely know how to use.
 
 # License?
 
